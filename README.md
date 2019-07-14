@@ -25,26 +25,23 @@ Slides
 ![03-wbmv1-beercapss.jpg](03-wbmv1-beercapss.jpg)
 ## WBM v1: Asus WL-HDD and Lolo 
 ![04-wbmv1-lolo.jpg](04-wbmv1-lolo.jpg)
-## Samsung Chord SDK and ZeroMQ
-![05-samsung-chord.jpg](05-samsung-chord.jpg)
-## ZeroMQ, the lightweight messaging library
-![05-zeromq.png](05-zeromq.png)
-## Zyre, an open-source framework for proximity-based peer-to-peer applications
-![05-zyre.png](05-zyre.png)
-## Glinet AR150, the router of choice
-![06-glinet-ar150.jpg](06-glinet-ar150.jpg)
-## Hardware vending machine at Revspace.nl
-![06-revspace.jpg](06-revspace.jpg)
-## Midicast at ZMQ hackaton
-![07-midicast-child.jpg](07-midicast-child.jpg)
-## Midicast at FOSDEM
-![07-midicast.png](07-midicast.png)
-
-Videos
-======
+## Babel workshop in Paris
+![05-babel-hackaton-workinghard.jpg](05-babel-hackaton-workinghard.jpg)
+## WBM v1: HSBXL webpage as history
+![06-wbmv1-hsb.png](06-wbmv1-hsb.png)
+## WBM v1: dual radios patch to Babel
+![07-wbmv1-dualradio.png](07-wbmv1-dualradio.png)
+## MultipathTCP topology
+![08-mptcp-topology.jpg](08-mptcp-topology.jpg)
+## OLSRD in Kubernetes
+![09-olsrd-kubernetes-routes.png](09-olsrd-kubernetes-routes.png)
 
 Links
 =====
 
-* https://www.battlemesh.org/BattleMeshV12/Events#MPTCP-virtualtested
-* 
+* Eiffel tower as an antenna: https://fr.m.wikipedia.org/wiki/Fichier:Antenne_tour_Eiffel_1914.jpg
+* WBMv12 schedule: https://www.battlemesh.org/BattleMeshV12/Events#MPTCP-virtualtested
+* WBMv1: http://hsb.wikidot.com/wbm2009
+* Babel in docker: https://github.com/zoobab/babeld-in-docker
+* OLSR in docker: https://github.com/zoobab/olsrd-in-docker
+* BMX7 in docker: https://github.com/zoobab/bmx7-in-docker
