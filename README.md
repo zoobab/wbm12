@@ -45,3 +45,5 @@ Links
 * Babel in docker: https://github.com/zoobab/babeld-in-docker
 * OLSR in docker: https://github.com/zoobab/olsrd-in-docker
 * BMX7 in docker: https://github.com/zoobab/bmx7-in-docker
+* GSoC 2018 - project presentations: https://www.youtube.com/watch?v=P0BWgeNpBOU&t=859
+* Multipath Wi-Fi bridging with transparent MPTCP proxy: https://www.youtube.com/watch?v=1xQQuT9BGuI
